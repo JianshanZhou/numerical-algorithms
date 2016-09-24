@@ -21,4 +21,4 @@ Copyright (C) Thu Sep 20 10:11:08 2016   Jianshan Zhou
  If not, see <http://www.gnu.org/licenses/>.
 
 Some basic numerical algorithms are provided in this project, which have been developed in C. The IDE CodeBlock is used here for compiling and
-debugging the programs. Please feel free to use and modify these programs, but keeping the basic information on the original Copyright as mentioned above.
+debugging the programs. Please feel free to use and modify these programs, but keeping the basic information on the original copyright as mentioned above. Furthermore, you are welcome to contribute to the improvement of this project. Thank you!
