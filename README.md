@@ -1,3 +1,5 @@
+Copyright (C) information:
+
 + Author: Jianshan Zhou
 
 + Contact: zhoujianshan@buaa.edu.cn	  jianshanzhou@foxmail.com
