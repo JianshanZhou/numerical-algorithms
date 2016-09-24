@@ -1,4 +1,4 @@
-Copyright (C) Thu Sep 20 10:11:08 2016   Jianshan Zhou
++ Author: Jianshan Zhou
 
 + Contact: zhoujianshan@buaa.edu.cn	  jianshanzhou@foxmail.com
 
@@ -21,4 +21,6 @@ Copyright (C) Thu Sep 20 10:11:08 2016   Jianshan Zhou
  If not, see <http://www.gnu.org/licenses/>.
 
 Some basic numerical algorithms are provided in this project, which have been developed in C. The IDE CodeBlock is used here for compiling and
-debugging the programs. Please feel free to use and modify these programs, but keeping the basic information on the original copyright as mentioned above. Furthermore, you are welcome to contribute to the improvement of this project. Thank you!
+debugging the programs. In the current version first created on Thu Sep 20, 2016, a subclass of basic linear equations solving algorithms have been developed based on the Gauss elimination method and the matrix LU decomposition. I remark that these numerical algorithms are basic and can be used for solving small-scale or medium-scale linear systems, the coefficient matrix of which is required to have identical row and column dimensions.
+
+Please feel free to use and modify these programs, but keeping the basic information on the original copyright as mentioned above. Furthermore, you are welcome to contribute to the improvement of this project. Thank you!
