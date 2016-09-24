@@ -1,6 +1,6 @@
-Copyright (C) Thu Sep 20 10:11:08 2016  Jianshan Zhou
+Copyright (C) Thu Sep 20 10:11:08 2016   Jianshan Zhou
 
-+ Contact: zhoujianshan@buaa.edu.cn	 jianshanzhou@foxmail.com
++ Contact: zhoujianshan@buaa.edu.cn	  jianshanzhou@foxmail.com
 
 + Website: <https://github.com/JianshanZhou>
 
