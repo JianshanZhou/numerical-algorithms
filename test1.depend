@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1474735467 source:c:\users\zhoujianshan\documents\my_c_projects\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"import_export_data.h"
+	"linear_equation_solutions.h"
+
+1474458015 source:c:\users\zhoujianshan\documents\c_projects\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"import_export_data.h"
+
+1474458054 c:\users\zhoujianshan\documents\c_projects\test1\import_export_data.h
+	<stdio.h>
+	<stdlib.h>
+
+1474666201 c:\users\zhoujianshan\documents\my_c_projects\test1\import_export_data.h
+
+1474560606 c:\users\zhoujianshan\documents\my_c_projects\test1\numerical_algorithms.h
+
+1474471321 source:c:\users\zhoujianshan\documents\my_c_projects\test1\numerical_algorithms.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1474562659 source:c:\users\zhoujianshan\documents\my_c_projects\test1\numerical_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1474667156 source:c:\users\zhoujianshan\documents\my_c_projects\test1\import_export_data.c
+	<stdio.h>
+	<stdlib.h>
+
+1474737593 source:c:\users\zhoujianshan\documents\my_c_projects\test1\linear_equation_solutions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1474734937 c:\users\zhoujianshan\documents\my_c_projects\test1\linear_equation_solutions.h
+
